@@ -1,4 +1,4 @@
-# ✍️ ScribblAir – Draw in the Air Like a Tech Wizard! 🚀  
+# ✍️ ScribblAir – Draw in the Air! 🚀  
 
 Ever wanted to **paint mid-air using just a webcam**? Welcome to **ScribblAir**, where you can grab a **blue object (pen cap, marker, or even your toothbrush, we don’t judge)** and start drawing in the air! 🎨✨  
 
