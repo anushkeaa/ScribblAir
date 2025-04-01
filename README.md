@@ -24,7 +24,8 @@ This **Python-powered Air Canvas** tracks a **blue object in real time**, lettin
 
 ## 📽️ Demo!  
 
-https://github.com/user-attachments/assets/9492c3b0-deb7-482b-8b8d-2e829812cb25
+
+https://github.com/user-attachments/assets/65525991-a18e-4b10-9443-7fa6d26a4e20
 
 ---
 
